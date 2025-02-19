@@ -52,6 +52,8 @@ int main() {
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wdfoxy34&show_icons=true&theme=dracula)](https://github.com/wdfoxy34)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ettoreleandrotognoli&theme=dracula)](https://github.com/ettoreleandrotognoli)
+
 Some [OpenCIAg](https://github.com/OpenCIAg/) works:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenCIAg&repo=py-robot&theme=dracula)](https://github.com/OpenCIAg/py-robot)

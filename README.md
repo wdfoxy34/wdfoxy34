@@ -48,3 +48,6 @@ int main() {
  return 0;
 }
 ```
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wdfoxy34&show_icons=true&theme=dracula)](https://github.com/wdfoxy34)

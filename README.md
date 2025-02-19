@@ -3,14 +3,18 @@ curriculo
 Nome : Miguel da Silva Andrade
 Idade : 19
 
-curso : Ciencias da Computaçao
+ensino medio completo 
+cursando : Ciencias da Computaçao
 Termo : 2 ano
 Periodo : Noturno
+faculdade : UNIMAR
 
 Competencias
 - python
 - C# (Para Criaçao de jogo)
 - C
+- HTML/CSS
+
 
 cursos 
 - informatica basica
@@ -43,4 +47,4 @@ int main() {
  printf("A soma dos elementos do array é: %d\n", soma);
  return 0;
 }
-````
+```
